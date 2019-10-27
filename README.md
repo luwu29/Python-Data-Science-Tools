@@ -1,2 +1,2 @@
-# analytics-
-Work at the Institute 
+The Workshop.Titanic file used the titanic dataset to demonstrate some of the most commonly used data exploration techniques. 
+The Lu's Python Manual file is where I put stuff I came across during working on projects and found them tricky or really helpful. This is a live file where I will constantly add things in. It can get messy. I try to keep my notes general to avoid any NDA issues but I also try to make them readable so when myself re-visist it I know what's going on. 
